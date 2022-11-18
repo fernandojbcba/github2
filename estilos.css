@@ -5,4 +5,6 @@ h1{
     text-align: center;
     color: #fff;
     text-transform: capitalize;
+    text-decoration: underline yellow dashed;
+
 }
