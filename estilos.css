@@ -5,11 +5,14 @@ body{
     background-color: deepskyblue;
 }
 h1{
+    font-size: 50px;
+    font-family: sans-serif;
+    text-transform: uppercase;
     text-align: center;
-    color: #fff;
-    text-transform: capitalize;
-    text-decoration: underline yellow;
-
+    color: white;
+    width: 100%;
+    text-decoration: underline;
+    text-decoration-color: yellow
 }
 img{
     border: 10px solid #000;
